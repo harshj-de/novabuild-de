@@ -216,3 +216,71 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ─────────────────────────────────────────────
+# NovaBuild-DE portfolio additions
+# Added to complement the GitHub Python template
+# ─────────────────────────────────────────────
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets & credentials (defensive layer)
+credentials.json
+service-account*.json
+*.pem
+*.key
+*.pfx
+.pgpass
+config.local.*
+secrets/
+
+# Data files (avoid committing large data to the repo)
+# Keep small sample files in datasets/sample-data/ and add exceptions if needed
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.avro
+*.orc
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.sql.gz
+!datasets/sample-data/*.csv
+
+# Databricks / Spark
+.databricks/
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+
+# dbt (for Module 7 later)
+target/
+dbt_packages/
+logs/
+dbt_modules/
+.user.yml
+
+# Power BI temp
+*.pbix.tmp
+*.pbi.tmp
+
+# Node / JS (if any tooling)
+node_modules/
+
+# Local test outputs
+output/
+tmp/
+scratch/
