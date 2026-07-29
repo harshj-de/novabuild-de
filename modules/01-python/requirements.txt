@@ -1,0 +1,7 @@
+# Module 01 — Python Foundations
+# Zero external dependencies — everything uses the standard library.
+#
+# Standard library only:
+#   dataclasses, logging, collections.abc, typing
+#
+# Python version: 3.10+ (uses union type syntax `dict | None`).
