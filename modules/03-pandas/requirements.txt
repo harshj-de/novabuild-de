@@ -1,0 +1,6 @@
+# Module 03 — Pandas
+# Minimal dependency set. Pinned to major versions known to work with
+# the code — patch versions are free to move.
+pandas>=2.2,<4
+numpy>=1.26,<3
+pyarrow>=15,<21   # for Parquet read/write in section 3.2 and 3.12

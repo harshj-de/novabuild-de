@@ -284,3 +284,7 @@ node_modules/
 output/
 tmp/
 scratch/
+
+# Exceptions — curated sample data bundled with modules for reproducibility
+# Exceptions — curated sample data bundled with modules for reproducibility
+!modules/03-pandas/data/bios_sample.csv
