@@ -1,0 +1,26 @@
+athlete_id,Used name,Sex,Born,Measurements,NOC,Roles
+1,Michael•Phelps,Male,"June 30, 1985 in Baltimore, Maryland (USA)",193 cm / 88 kg,USA,Swimmer
+2,Usain•St Leo•Bolt,Male,"21 August 1986 in Sherwood Content, Trelawny (JAM)",195 cm / 94 kg,JAM,Sprinter
+3,Simone•Biles,Female,1997-03-14 in Columbus Ohio (USA),142 cm / 47 kg,USA,Gymnast
+4,Katie•Ledecky,Female,"March 17, 1997 in Washington, D.C. (USA)",183 cm / 70 kg,USA,Swimmer
+5,Neeraj•Chopra,Male,"December 24, 1997 in Khandra, Panipat (IND)",182 cm / 86 kg,IND,Javelin
+6,PV•Sindhu,Female,"5 July 1995 in Hyderabad, Telangana (IND)",179 cm / 65 kg,IND,Badminton
+7,Sunisa•Lee,Female,"9 March 2003 in St. Paul, Minnesota (USA)",152 cm / 45 kg,USA,Gymnast
+8,Andrii•Shevchenko,Male,"29 September 1976 in Dvirkivshchyna, Kyiv Oblast (UKR)",185 cm / 76 kg,UKR,Football
+9,Roger•Federer,Male,"8 August 1981 in Basel, Basel-Stadt (SUI)",185 cm / 85 kg,SUI,Tennis
+10,Serena•Williams,Female,"September 26, 1981 in Saginaw, Michigan (USA)",175 cm / 70 kg,USA,Tennis
+11,Novak•Djoković,Male,"22 May 1987 in Belgrade, SR Serbia (SRB)",188 cm / 77 kg,SRB,Tennis
+12,Rafael•Nadal,Male,"3 June 1986 in Manacor, Mallorca (ESP)",185 cm / 85 kg,ESP,Tennis
+13,Naomi•Osaka,Female,"October 16, 1997 in Osaka, Osaka (JPN)",180 cm / 69 kg,JPN,Tennis
+14,Cristiano•Ronaldo,Male,"5 February 1985 in Funchal, Madeira (POR)",187 cm / 84 kg,POR,Football
+15,Lionel•Messi,Male,"June 24, 1987 in Rosario, Santa Fe (ARG)",170 cm / 72 kg,ARG,Football
+16,Mohamed•Salah,Male,"15 June 1992 in Nagrig, Basyoun (EGY)",175 cm / 71 kg,EGY,Football
+17,Kylian•Mbappé,Male,"December 20, 1998 in Paris, Île-de-France (FRA)",178 cm / 73 kg,FRA,Football
+18,Lewis•Hamilton,Male,"7 January 1985 in Stevenage, Hertfordshire (GBR)",174 cm / 68 kg,GBR,Motorsport
+19,Serena•Wu,Female,unknown,150 cm / 45 kg,CHN,Diver
+20,Lin•Dan,Male,"14 October 1983 in Longyan, Fujian (CHN)",178 cm / 72 kg,CHN,Badminton
+21,Athlete•NoData,Male,,,USA,Runner
+22,Bad•Height,Female,"1 January 1990 in Somewhere (XXX)",300 cm / 50 kg,XXX,TestOnly
+23,Bad•Weight,Male,"1 January 1990 in Somewhere (XXX)",180 cm / 500 kg,XXX,TestOnly
+24,Hima•Das,Female,"9 January 2000 in Kandhulimari, Assam (IND)",167 cm / 55 kg,IND,Sprinter
+25,Mary•Kom,Female,"1 March 1983 in Kangathei, Manipur (IND)",158 cm / 51 kg,IND,Boxer
