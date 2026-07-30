@@ -1,0 +1,7 @@
+# Module 04 — SQL for Data Engineering
+#
+# Python is only used for the seed-data generator (setup/generate_saas_data.py).
+# The .sql files themselves have no Python dependency — they run against
+# any PostgreSQL 15+ instance directly via psql, DBeaver, or your IDE.
+
+psycopg[binary]>=3.1,<4        # PostgreSQL driver used by the generator
